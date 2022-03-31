@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.list-section {
+  justify-content: space-between;
+}
+.success {
+  background-color: lightgreen;
+  color: rgb(29, 218, 29);
+}
+.danger {
+  background-color: lightcoral;
+  color: rgb(247, 57, 57);
+}
